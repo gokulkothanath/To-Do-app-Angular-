@@ -11,4 +11,5 @@ Tech Stack
 Frontend: Angular, RxJS
 Styling: Bootstrap 5
 State Management: RxJS Observables and Subjects
+Backend: JSON-Web server
 
